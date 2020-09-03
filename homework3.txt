@@ -1,0 +1,7 @@
+Homework 3 - CSCI3287
+Jacob Christiansen
+Working with Willie Chew
+
+
+1. select* from offices order by city;
+2. 
